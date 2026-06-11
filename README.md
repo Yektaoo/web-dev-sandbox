@@ -1,1 +1,1 @@
-# web-dev-sandbox
+# web-dev-sandbox فضایی برای تست قطعه‌کدهای کوچک وب.
